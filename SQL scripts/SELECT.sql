@@ -8,6 +8,7 @@ Syntax: SELECT column1, column2,....
         SELECT * FROM table_name;  --returns all entries
 
 */
+use crm;
 
 select main_hq_id, contact_number from main_hq;                                                                              
 
