@@ -1,3 +1,14 @@
+/*
+============================================================================
+DDL Script : Create Bronze Tables
+============================================================================
+Script Purpose: 
+          This script creates tables in 'bronze' schema, existing tables
+          if they already exist.
+          Run this script to re-define the ddl strcutre of 'bronze' Tables
+==============================================================================
+*/
+
 USE DataWarehouse;
 
 CREATE TABLE Bronze.crm_cust_info(
