@@ -9,7 +9,7 @@ This project implements a mini data warehouse using SQL to unify raw data from m
 - Performed data validation and generated analytical summaries and insights.  
 
 ### 🧰 Technologies Used
-- SQL (MySQL/PostgreSQL/SQL Server)  
+- SQL (MySQL/SQL Server)  
 - Data Warehousing concepts  
 - ERD, star schema, snowflake modeling  
 - Query optimization & indexing techniques  
